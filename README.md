@@ -19,5 +19,3 @@ Showcase:
 
 ![Test Gif](https://github.com/sajmonekk191/MagicOrbwalker/blob/main/test.gif)
 
-
-Buy me Coffee <3: https://www.paypal.me/sajmonekk11
